@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple C++ program representing a Library Management System. This program allows users to manage books and users in a library, including functionalities such as adding books, searching for books by prefix, printing information about borrowers, and managing library users.
+A simple C++ program representing a Library Management System. This program allows manager to manage books and users in a library, including functionalities such as adding books, searching for books by prefix, printing information about borrowers, and managing library users.
 
 ### Features
 
